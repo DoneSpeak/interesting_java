@@ -1,0 +1,8 @@
+替换到其他服务器时，请更换一下信息：
+1、index.html中bookDelete()函数的url的路径
+
+2、修改HttpForPersonPages.java中下面一行代码的指定路径。
+    public static final String SERVERDIR_DEFAULT = "D:\\java\\JHTTP";
+
+3、如果需要，请修改WebClient.java中的下列一行代码
+    static final String URLSTR_DEFAULT = "http://localhost/index.html";

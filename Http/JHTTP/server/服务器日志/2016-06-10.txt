@@ -1,0 +1,1560 @@
+六月 10, 2016 12:37:28 上午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 12:37:28 上午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 12:48:44 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:63663 GET /index.html HTTP/1.1
+六月 10, 2016 12:48:44 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:48:45 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:63664 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 12:48:45 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:48:48 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:63665 GET /personalPages/? HTTP/1.1
+六月 10, 2016 12:48:48 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:48:56 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:63667 GET /personalPages/2014150105.html? HTTP/1.1
+六月 10, 2016 12:48:56 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:49:16 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:63681 GET /personalPages/2014150105.html? HTTP/1.1
+六月 10, 2016 12:49:16 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:49:21 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:63682 GET /personalPages/2014150104.html? HTTP/1.1
+六月 10, 2016 12:49:21 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:41:44 上午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 7:41:44 上午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 7:41:52 上午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 7:41:52 上午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 7:42:08 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65354 GET /index.html HTTP/1.1
+六月 10, 2016 7:42:08 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:42:08 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65355 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:42:08 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:42:09 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65356 GET /favicon.ico HTTP/1.1
+六月 10, 2016 7:42:09 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:42:21 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65357 GET /index-%E5%89%AF%E6%9C%AC.html HTTP/1.1
+六月 10, 2016 7:42:21 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:43:42 上午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 7:43:43 上午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 7:44:06 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65374 GET /index.html HTTP/1.1
+六月 10, 2016 7:44:06 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:44:07 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65380 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:44:07 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:44:08 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65384 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:44:08 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:44:08 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65385 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:44:08 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:44:08 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65386 GET /js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:44:08 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:44:53 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65399 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:44:53 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:45:34 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65400 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:45:34 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:45:34 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65401 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:45:34 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:45:34 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65402 GET /js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:45:34 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:46:24 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65404 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:46:24 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:46:25 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65405 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:46:25 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:46:25 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65406 GET /js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:46:25 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:46:52 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65407 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:46:52 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:46:52 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65408 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:46:52 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:46:52 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65409 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:46:52 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:46:56 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65411 DELETE /172.29.48.3/personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 7:46:56 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:47:43 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65433 GET /index.html HTTP/1.1
+六月 10, 2016 7:47:43 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:47:43 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65434 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:47:43 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:47:46 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65437 GET /personalPages/2014150103.html? HTTP/1.1
+六月 10, 2016 7:47:46 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:47:52 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65443 GET /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 7:47:52 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:47:53 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65444 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 7:47:53 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:47:53 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65445 GET /personalPages/images/2014150103.jpg HTTP/1.1
+六月 10, 2016 7:47:53 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:48:16 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65459 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:48:16 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:48:16 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65460 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:48:16 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65461 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:48:16 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:48:16 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:48:18 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65462 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 7:53:27 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65476 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:53:27 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:53:28 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65477 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:53:28 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:53:28 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65478 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:53:28 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:54:04 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65480 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:54:04 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:54:05 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65481 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:54:05 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:54:05 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65482 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:54:05 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:54:06 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65483 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 7:54:40 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65485 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 7:54:40 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 7:55:24 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65487 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 7:58:32 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65490 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:58:32 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:32 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65491 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:58:32 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:32 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65492 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:58:32 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:35 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65493 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:58:35 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:35 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65494 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:58:35 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:35 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65495 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:58:35 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:43 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65496 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:58:43 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:43 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65497 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:58:43 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:43 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65498 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:58:43 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:46 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65499 GET /index_2.html HTTP/1.1
+六月 10, 2016 7:58:46 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:47 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65500 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 7:58:47 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:47 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65501 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 7:58:47 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 7:58:49 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65502 GET /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 7:58:49 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:05:11 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65519 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:05:11 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:05:12 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65520 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:05:12 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:05:12 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65521 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:05:12 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:05:16 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65522 DELETE /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:05:42 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65523 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:05:42 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:05:42 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65524 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:05:42 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:05:42 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65525 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:05:42 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:05:44 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65526 GET /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:05:44 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:01 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65530 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:07:01 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:02 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65531 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:07:02 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:02 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65532 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:07:02 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:13 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65533 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:07:13 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:13 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:65534 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:07:13 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:13 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49152 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:07:13 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:15 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49153 GET /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 8:07:15 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:16 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49154 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 8:07:16 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:07:16 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49155 GET /personalPages/images/2014150105.png HTTP/1.1
+六月 10, 2016 8:07:16 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:37 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49163 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:08:37 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:39 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49168 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:08:39 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:39 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49164 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:08:39 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:52 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49169 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:08:52 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:54 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49170 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:08:54 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:54 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49171 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:08:54 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:56 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49172 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:08:56 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:57 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49173 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:08:57 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:08:57 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49174 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:08:57 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:09:59 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49185 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:09:59 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:10:01 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49186 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:10:01 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:10:01 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49187 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:10:01 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:10:40 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49197 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:10:40 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:11:27 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49198 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:11:27 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:11:29 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49200 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:11:29 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:11:29 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49199 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:11:29 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:21:44 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49232 OPTIONS /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:21:45 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49233 OPTIONS /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:22:05 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49234 HEAD /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:23:23 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49236 HEAD /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:23:24 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49237 HEAD /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:24:45 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49239 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:24:45 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:24:49 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49240 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:24:49 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:24:49 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49241 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:24:49 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:24:56 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49242 HEAD /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:25:01 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49243 OPTIONS /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:47:54 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49304 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:47:54 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:48:09 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49305 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 8:48:09 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:48:10 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49306 GET /index_2.html HTTP/1.1
+六月 10, 2016 8:48:10 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:48:16 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49310 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 8:48:16 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 8:48:26 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49311 KKKK /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:48:35 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49312 HEAD /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 8:48:39 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:49313 OPTIONS /personalPages/2014150102.html HTTP/1.1
+六月 10, 2016 10:21:12 上午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 10:21:12 上午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 10:21:38 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49607 GET /index.html HTTP/1.0
+六月 10, 2016 10:21:38 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 10:21:43 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49608 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:25:10 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49615 DELETE /personalPages/2014150102.html HTTP/1.0
+六月 10, 2016 10:25:52 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49616 DELETE /index HTTP/1.0
+六月 10, 2016 10:25:52 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 10:25:59 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49618 HEAD /index HTTP/1.0
+六月 10, 2016 10:25:59 上午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 10:26:53 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49619 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:27:21 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49621 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:27:22 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49622 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:27:22 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49623 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:27:23 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49624 GET /index.html HTTP/1.0
+六月 10, 2016 10:27:23 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 10:27:26 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49625 HEAD /index.html HTTP/1.0
+六月 10, 2016 10:27:27 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49626 OPTIONS /index.html HTTP/1.0
+六月 10, 2016 10:27:31 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49627 OPTIONS /index.html HTTP/1.0
+六月 10, 2016 10:27:31 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49628 HEAD /index.html HTTP/1.0
+六月 10, 2016 10:27:33 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49629 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:28:02 上午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 10:28:02 上午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 10:28:05 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49631 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:28:15 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49632 GET /index.html HTTP/1.0
+六月 10, 2016 10:28:15 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 10:28:16 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49633 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:28:17 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49634 HEAD /index.html HTTP/1.0
+六月 10, 2016 10:28:18 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49635 OPTIONS /index.html HTTP/1.0
+六月 10, 2016 10:29:38 上午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 10:29:38 上午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 10:29:40 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49637 GET /index.html HTTP/1.0
+六月 10, 2016 10:29:41 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 10:29:41 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49638 DELETE /index.html HTTP/1.0
+六月 10, 2016 10:29:42 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49639 HEAD /index.html HTTP/1.0
+六月 10, 2016 10:29:43 上午 HttpForPersonPages writeIntoLog
+信息: /172.29.48.3:49640 OPTIONS /index.html HTTP/1.0
+六月 10, 2016 11:28:34 上午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 11:28:34 上午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 11:30:00 上午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50278 GET /index.html HTTP/1.0
+六月 10, 2016 11:30:01 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:30:02 上午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50279 ERRORREQUEST /index.html HTTP/1.0
+六月 10, 2016 11:33:16 上午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50305 OPTIONS /index.html HTTP/1.0
+六月 10, 2016 11:33:18 上午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50306 HEAD /index.html HTTP/1.0
+六月 10, 2016 11:33:19 上午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50307 DELETE /index.html HTTP/1.0
+六月 10, 2016 11:33:23 上午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50308 GET /index.html HTTP/1.0
+六月 10, 2016 11:33:23 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:39:54 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50354 GET /index.html HTTP/1.1
+六月 10, 2016 11:39:54 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:39:54 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50355 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 11:39:54 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50356 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 11:39:54 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:39:54 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:43:45 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50386 GET /index.html HTTP/1.1
+六月 10, 2016 11:43:45 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:43:45 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50387 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 11:43:45 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50388 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 11:43:45 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:43:45 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:44:42 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50391 GET /index.html HTTP/1.1
+六月 10, 2016 11:44:42 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:44:42 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50392 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 11:44:42 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:44:42 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50393 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 11:44:42 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:44:48 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50394 GET /index_2.html HTTP/1.1
+六月 10, 2016 11:44:48 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:44:48 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50395 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 11:44:48 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:44:48 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50396 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 11:44:48 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:46:59 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50517 GET /index.html HTTP/1.1
+六月 10, 2016 11:46:59 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:47:00 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50518 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 11:47:00 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:47:00 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50519 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 11:47:00 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:49:01 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50536 GET /index.html HTTP/1.1
+六月 10, 2016 11:49:01 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:49:01 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50535 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 11:49:01 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:49:01 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50534 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 11:49:01 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:49:20 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50546 GET /index.html HTTP/1.1
+六月 10, 2016 11:49:20 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:49:21 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50549 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 11:49:21 上午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50548 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 11:49:21 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 11:49:21 上午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:17:32 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50689 GET /index.html HTTP/1.1
+六月 10, 2016 12:17:32 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:17:33 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50692 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 12:17:33 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50691 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 12:17:33 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:17:33 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:17:36 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50690 ERRORTYPE /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:17:38 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50693 ERRORTYPE /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:17:39 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50694 ERRORTYPE /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:17:40 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50695 ERRORTYPE /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:17:46 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50696 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 12:17:46 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:18:41 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50697 GET /index.html HTTP/1.1
+六月 10, 2016 12:18:41 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:18:42 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50699 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 12:18:42 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:18:42 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50698 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 12:18:42 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:18:43 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50700 ERRORTYPE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:18:46 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50701 HEAD /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:18:46 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:19:41 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50704 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:19:45 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50705 HEAD /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:19:45 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:19:47 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50706 HEAD /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:19:47 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:19:53 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50707 HEAD /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:20:15 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50709 ERRORTYPE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:20:19 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50710 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:20:24 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50711 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:20:40 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50712 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:24:53 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 12:24:53 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 12:25:00 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50740 GET /index.html HTTP/1.1
+六月 10, 2016 12:25:00 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:25:00 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50742 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 12:25:00 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50741 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 12:25:00 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:25:00 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:25:02 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50743 HEAD /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:25:02 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:25:02 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:25:13 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50744 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:25:15 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50753 ERRORTYPE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:25:19 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50754 ERRORTYPE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:25:30 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50755 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:25:33 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50756 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:25:33 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:25:33 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:25:37 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50757 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:25:37 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:25:37 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:25:39 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50758 GET /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:25:39 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:25:39 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:26:41 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50772 GET /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:26:41 下午 HttpForPersonPages writeIntoLog
+警告: Error talking to /0:0:0:0:0:0:0:1:50772
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at RequestProcessor.responseErrorHtml(RequestProcessor.java:287)
+	at RequestProcessor.cannotFindFile(RequestProcessor.java:312)
+	at RequestProcessor.run(RequestProcessor.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+六月 10, 2016 12:27:43 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50775 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:27:46 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50778 ERRORTYPE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:29:32 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 12:29:32 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 12:29:43 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50781 GET /index.html HTTP/1.1
+六月 10, 2016 12:29:43 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:29:44 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50784 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 12:29:44 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:29:44 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50783 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 12:29:44 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:29:45 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50782 ERRORTYPE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:29:51 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50785 HEAD /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:29:51 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:29:51 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:30:08 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50786 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:30:12 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50787 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:30:12 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:30:12 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:30:14 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50788 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:30:19 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50789 GET /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:30:19 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:30:19 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:34:59 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50812 GET /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:34:59 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:34:59 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:36:00 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50821 GET /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:36:00 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:36:00 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:36:22 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50822 GET /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:36:22 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:36:22 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:39:24 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 12:39:24 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP
+六月 10, 2016 12:39:41 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50857 GET /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:39:41 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:39:41 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:39:44 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50858 DELETE /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:39:44 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:39:44 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:39:46 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50859 HEAD /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:39:46 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:39:46 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:39:47 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50860 OPTIONS /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:06 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50861 ERRORREQUEST /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:08 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50862 OPTIONS /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:20 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50871 HEAD /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:20 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:20 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:20 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50872 DELETE /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:20 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:20 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:21 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50873 GET /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:21 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:21 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:21 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50874 DELETE /personPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:21 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:22 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:25 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50875 GET /personPages/2014150102.html HTTP/1.0
+六月 10, 2016 12:40:25 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:25 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:26 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50876 GET /personPages/2014150102.html HTTP/1.0
+六月 10, 2016 12:40:26 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:26 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:29 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50877 GET /personPages/2014150104.html HTTP/1.0
+六月 10, 2016 12:40:29 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:29 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:30 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50878 GET /personPages/2014150104.html HTTP/1.0
+六月 10, 2016 12:40:30 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:30 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:31 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50879 GET /personPages/2014150104.html HTTP/1.0
+六月 10, 2016 12:40:31 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:31 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:34 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50883 DELETE /personPages/2014150104.html HTTP/1.0
+六月 10, 2016 12:40:34 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:34 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:35 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50884 HEAD /personPages/2014150104.html HTTP/1.0
+六月 10, 2016 12:40:35 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:35 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:51 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50885 GET /personalPages/2014150104.html HTTP/1.0
+六月 10, 2016 12:40:51 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:40:56 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50886 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:56 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:56 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:56 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50887 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:56 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:56 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:57 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50888 HEAD /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:57 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:57 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:57 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50889 OPTIONS /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:58 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50890 ERRORREQUEST /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:59 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50891 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:40:59 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:40:59 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:00 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50892 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:41:00 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:00 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:01 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50893 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:41:01 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:01 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:15 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50894 GET /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:41:15 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:15 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:19 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50895 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:41:19 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:19 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:33 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50899 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:41:35 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50900 HEAD /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:41:35 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:35 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:41:40 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50901 ERRORTYPE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:42:02 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50905 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:42:02 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:42:02 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:42:03 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50906 HEAD /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:42:03 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:42:03 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 12:42:03 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50907 OPTIONS /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:42:04 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50908 ERRORREQUEST /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:42:06 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:50909 OPTIONS /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 12:43:23 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50912 GET /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 12:43:23 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:43:24 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50913 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 12:43:24 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:43:24 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50914 GET /personalPages/images/2014150103.jpg HTTP/1.1
+六月 10, 2016 12:43:24 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:43:27 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50915 GET /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:43:27 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:43:27 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50916 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 12:43:27 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:43:27 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50917 GET /personalPages/images/2014150105.png HTTP/1.1
+六月 10, 2016 12:43:27 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:43:31 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50918 GET /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:43:31 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:43:31 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50919 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 12:43:31 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:43:31 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50920 GET /personalPages/images/2014150105.png HTTP/1.1
+六月 10, 2016 12:43:31 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:44:05 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50927 GET /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:44:05 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:44:06 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50928 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 12:44:06 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:44:06 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50929 GET /personalPages/images/2014150104.png HTTP/1.1
+六月 10, 2016 12:44:06 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:45:03 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50931 GET /personalPages/2014150105.html HTTP/1.1
+六月 10, 2016 12:45:03 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:45:04 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50933 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 12:45:04 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 12:45:04 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:50932 GET /personalPages/images/2014150105.png HTTP/1.1
+六月 10, 2016 12:45:04 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:09:37 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 1:09:37 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP\server
+六月 10, 2016 1:09:41 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51212 GET /index.html HTTP/1.0
+六月 10, 2016 1:09:41 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:09:43 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51213 DELETE /index.html HTTP/1.0
+六月 10, 2016 1:09:45 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51215 HEAD /index.html HTTP/1.0
+六月 10, 2016 1:09:46 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51216 OPTIONS /index.html HTTP/1.0
+六月 10, 2016 1:09:47 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51217 ERRORREQUEST /index.html HTTP/1.0
+六月 10, 2016 1:09:57 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51218 GET /personalPages/index.html HTTP/1.0
+六月 10, 2016 1:09:57 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 1:09:57 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 1:10:06 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51219 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:10:06 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:10:06 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51220 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:10:09 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51221 HEAD /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:10:10 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51222 OPTIONS /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:10:10 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51223 ERRORREQUEST /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:11:09 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 1:11:09 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP\server
+六月 10, 2016 1:11:28 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51225 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:11:28 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:11:30 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51226 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:11:30 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51227 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:11:30 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:11:31 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51228 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:08 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51230 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:09 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51231 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:10 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51232 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:12 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51233 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:12 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:12:52 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51238 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:54 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51239 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:55 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51240 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:56 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51241 HEAD /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:57 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51242 HEAD /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:12:58 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51243 OPTIONS /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:13:00 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51244 ERRORREQUEST /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:13:01 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51245 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:13:02 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51246 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:13:02 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:13:17 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51249 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:13:19 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51250 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:13:19 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51251 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:18:33 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 1:18:33 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP\server
+六月 10, 2016 1:18:57 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51337 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:18:57 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:19:04 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51338 HEAD /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:19:06 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51339 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:19:06 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:19:07 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51340 OPTIONS /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:19:08 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51341 ERRORREQUEST /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:19:09 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51342 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:19:09 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51343 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:19:09 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:19:19 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51344 DELETE /personalPages/2014150104.html HTTP/1.0
+六月 10, 2016 1:19:20 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51345 GET /personalPages/2014150104.html HTTP/1.0
+六月 10, 2016 1:19:20 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 1:19:20 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 1:19:46 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51347 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:19:47 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51348 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:19:47 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:22:16 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 1:22:16 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP\server
+六月 10, 2016 1:22:18 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51360 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:22:18 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 1:22:19 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51361 DELETE /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:22:20 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:51362 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 1:22:20 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 1:22:20 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 4:45:04 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 4:45:04 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP\server
+六月 10, 2016 4:45:38 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52563 GET / HTTP/1.1
+六月 10, 2016 4:45:38 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 4:45:38 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52564 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 4:45:38 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52565 GET /personalPages/js/jquery-2.1.4.min.js HTTP/1.1
+六月 10, 2016 4:45:38 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 4:45:38 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 4:52:56 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52598 GET /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 4:52:56 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 4:52:56 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52599 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 4:52:56 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52600 GET /personalPages/images/2014150103.jpg HTTP/1.1
+六月 10, 2016 4:52:56 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 4:52:56 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 4:57:27 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52615 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 4:57:35 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52616 GET /personalPages/style/index.css HTTP/1.1
+六月 10, 2016 4:57:35 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 4:58:08 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52617 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 5:01:26 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52629 HEAD /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 5:01:29 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52630 OPTIONS /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 5:01:31 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52631 ERRORTYPE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 5:05:13 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52644 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 5:05:17 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52645 DELETE /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 5:05:17 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:05:17 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:06:50 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52650 GET /personalPages/2014150103.html HTTP/1.1
+六月 10, 2016 5:06:50 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:06:50 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:12:51 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52664 GET /index.html HTTP/1.0
+六月 10, 2016 5:12:51 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 5:14:33 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52674 DELETE /index.html HTTP/1.0
+六月 10, 2016 5:16:44 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52682 GET /personalPages/2014150103.html HTTP/1.0
+六月 10, 2016 5:16:44 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:16:44 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:17:44 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52688 GET /personalPages/2014150102.html HTTP/1.0
+六月 10, 2016 5:17:44 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 5:17:46 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52689 DELETE /personalPages/2014150102.html HTTP/1.0
+六月 10, 2016 5:19:11 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52695 HEAD /personalPages/2014150102.html HTTP/1.0
+六月 10, 2016 5:19:11 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:19:11 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:19:18 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52696 GET /personalPages/2014150105.html HTTP/1.0
+六月 10, 2016 5:19:18 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 5:19:19 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52697 HEAD /personalPages/2014150105.html HTTP/1.0
+六月 10, 2016 5:19:26 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52700 GET /personalPages/2014150105.html HTTP/1.0
+六月 10, 2016 5:19:26 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 5:19:36 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52701 HEAD /index.html HTTP/1.0
+六月 10, 2016 5:21:45 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52707 OPTIONS /index.html HTTP/1.0
+六月 10, 2016 5:22:53 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52710 ERRORREQUEST /index.html HTTP/1.0
+六月 10, 2016 5:31:31 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52750 GET /personalPages/2014150104.html HTTP/1.1
+六月 10, 2016 5:31:31 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 5:31:31 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52751 GET /personalPages/style/personalPage.css HTTP/1.1
+六月 10, 2016 5:31:31 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 5:31:31 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52752 GET /personalPages/images/2014150104.png HTTP/1.1
+六月 10, 2016 5:31:31 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 5:33:33 下午 HttpForPersonPages start
+信息: Acception connections on port 80
+六月 10, 2016 5:33:33 下午 HttpForPersonPages start
+信息: Document Root: D:\计算机与软件编程\练习\java\JHTTP\server
+六月 10, 2016 5:33:37 下午 HttpForPersonPages writeIntoLog
+信息: /127.0.0.1:52774 GET /index.html HTTP/1.0
+六月 10, 2016 5:33:37 下午 HttpForPersonPages writeIntoLog
+信息: Result: 200 OK
+
+六月 10, 2016 5:33:47 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52788 GET /personalPages/%E5%93%87%E5%98%8E%E5%98%8E%E5%98%8E.html HTTP/1.1
+六月 10, 2016 5:33:47 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:33:47 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:34:42 下午 HttpForPersonPages writeIntoLog
+信息: /0:0:0:0:0:0:0:1:52818 GET /index%E5%89%AF%E6%9C%AC.html HTTP/1.1
+六月 10, 2016 5:34:42 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+
+六月 10, 2016 5:34:42 下午 HttpForPersonPages writeIntoLog
+信息: Result: 404 NOT FOUND
+

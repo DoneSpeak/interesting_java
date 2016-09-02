@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+	<title>学生个人主页</title>
+	
+	<link rel="stylesheet" href="./personalPages/style/index.css" type="text/css" />
+	<script src="./personalPages/js/jquery-2.1.4.min.js"></script>
+	
+	<script type="text/javascript">
+		function bookDelete(needDeleteSrc,methond) {
+			
+			// AJAX 提交 DELETE 请求
+			$.ajax({
+				url: 'http://localhost/personalPages/' + needDeleteSrc,
+				type: methond,
+				success: function(data) {	
+					console.log(data);
+					alert(data);
+				},
+				error: function(code, message, details) {
+					console.log(message);
+					console.log(code);
+					console.log(details);
+				}
+			});
+		}
+	</script>
+
+</head> 
+
+<body> 
+	<div id = "contentDiv">
+		<div id = "header">
+			<h3>学生的个人主页</h3>
+		</div>
+		<div id = "main">
+			<div id = "photo">
+				<table>
+					<tr>
+						<td><a href = "./personalPages/103.html">A君</a></td>
+						<td>
+							<a href = "http://localhost/personalPages/103.html" ><input id="input_get" type="button" value="GET" /></a>
+						</td>
+						<td>
+							<form id="form_delete">
+								<input id="input_delete" type="button" value="Delete" onclick="bookDelete('103.html','DELETE')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_options">
+								<input id="input_options" type="button" value="OPTIONS" onclick="bookDelete('103.html','OPTIONS')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_head">
+								<input id="input_head" type="button" value="HEAD" onclick="bookDelete('103.html','HEAD')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_errorType">
+								<input id="input_options" type="button" value="ERRORTYPE" onclick="bookDelete('103.html','errorType')" />
+							</form>
+						</td>
+					</tr>
+					<tr>
+						<td><a href = "./personalPages/105.html">B君</a></td>
+						<td>
+							<a href = "http://localhost/personalPages/105.html" ><input id="input_get" type="button" value="GET" /></a>
+						</td>
+						<td>
+							<form id="form_delete">
+								<input id="input_delete" type="button" value="Delete" onclick="bookDelete('105.html','DELETE')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_options">
+								<input id="input_options" type="button" value="OPTIONS" onclick="bookDelete('105.html','OPTIONS')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_head">
+								<input id="input_options" type="button" value="HEAD" onclick="bookDelete('105.html','HEAD')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_errorType">
+								<input id="input_options" type="button" value="ERRORTYPE" onclick="bookDelete('105.html','errorType')" />
+							</form>
+						</td>
+					</tr>					
+					<tr>
+						<td><a href = "./personalPages/104.html">C君/a></td>
+						<td>
+							<a href = "http://localhost/personalPages/104.html" ><input id="input_get" type="button" value="GET" /></a>
+						</td>
+						<td>
+							<form id="form_delete">
+								<input id="input_delete" type="button" value="Delete" onclick="bookDelete('104.html','DELETE')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_options">
+								<input id="input_options" type="button" value="OPTIONS" onclick="bookDelete('104.html','OPTIONS')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_head">
+								<input id="input_options" type="button" value="HEAD" onclick="bookDelete('104.html','HEAD')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_errorType">
+								<input id="input_options" type="button" value="ERRORTYPE" onclick="bookDelete('104.html','errorType')" />
+							</form>
+						</td>
+					</tr>
+					<tr>
+						<td><a href = "./personalPages/102.html">D君</a></td>
+						<td>
+							<a href = "http://localhost/personalPages/102.html" ><input id="input_get" type="button" value="GET" /></a>
+						</td>
+						<td>
+							<form id="form_delete">
+								<input id="input_delete" type="button" value="Delete" onclick="bookDelete('102.html','DELETE')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_options">
+								<input id="input_options" type="button" value="OPTIONS" onclick="bookDelete('102.html','OPTIONS')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_head">
+								<input id="input_options" type="button" value="HEAD" onclick="bookDelete('102.html','HEAD')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_errorType">
+								<input id="input_options" type="button" value="ERRORTYPE" onclick="bookDelete('102.html','errorType')" />
+							</form>
+						</td>
+					</tr>
+					<tr>
+						<td><a href = "./personalPages/072.html">E君</a></td>
+						<td>
+							<a href = "http://localhost/personalPages/072.html" ><input id="input_get" type="button" value="GET" /></a>
+						</td>
+						<td>
+							<form id="form_delete">
+								<input id="input_delete" type="button" value="Delete" onclick="bookDelete('072.html','DELETE')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_options">
+								<input id="input_options" type="button" value="OPTIONS" onclick="bookDelete('072.html','OPTIONS')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_head">
+								<input id="input_options" type="button" value="HEAD" onclick="bookDelete('072.html','HEAD')" />
+							</form>
+						</td>
+						<td>
+							<form id="form_errorType">
+								<input id="input_options" type="button" value="ERRORTYPE" onclick="bookDelete('072.html','errorType')" />
+							</form>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id = "info">
+				
+			</div>
+		</div>
+		<div id = "footer">
+			<p>@DoneSpeak&nbsp;&nbsp;&nbsp;2016/6/9</p>
+		</div>
+	</div>
+</body> 
+</html>

@@ -1,0 +1,66 @@
+body{
+	background-color:RGB(255,255,255);
+}
+#contentDiv{
+	width:80%;
+
+	background-color:RGB(232,232,255);
+	margin:auto;
+}
+#header{
+	width:100%;
+	height:120px;
+	background-color:RGB(100,200,255);
+	margin:auto;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, SimSun, “宋体”, Heiti, “黑体”, sans-serif;
+	font-size:25px;
+	font-weight:bold;
+}
+
+#main{
+	width:100%;
+	height:400px;
+	margin:auto;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, SimSun, “宋体”, Heiti, “黑体”, sans-serif;
+	font-size:25px;
+	font-weight:bold;
+}
+
+#main table{
+	width:70%;
+	margin:auto;
+	margin-top:30px;
+}
+
+#main table td{
+    border-right: 1px solid #c1dad7;  
+    border-bottom: 1px solid #c1dad7;  
+    background: #fff;  
+    font-size:15px;  
+    padding: 8px;
+    color: #4f6b72;  
+}
+
+#main a{
+	text-decoration:none;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, SimSun, “宋体”, Heiti, “黑体”, sans-serif;
+	
+}
+
+#header h3{
+	margin:auto;
+	padding:30px;
+}
+
+#footer{
+	width:100%;
+	height:80px;
+	background-color:RGB(100,200,255);
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, SimSun, “宋体”, Heiti, “黑体”, sans-serif;
+	font-size:25px;
+}
+#footer p{
+	padding:20px;
+	text-align:center;
+	margin:auto;
+}
